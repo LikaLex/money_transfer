@@ -1,0 +1,1 @@
+class NotEnoughBalance < StandardError; end
